@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chromeless": "^1.5.2"
+    "chromeless": "^1.5.2",
+    "selenium-webdriver": "^4.0.0-alpha.7"
   }
 }
